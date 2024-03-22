@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+  background-image: linear-gradient(115deg, #9F7AEA,#FEE2FE);
+} */
+.bg{
+  background-image: url("https://media.istockphoto.com/id/1418733350/photo/concept-of-cyber-security-information-security-and-encryption-secure-access-to-users-personal.jpg?s=612x612&w=0&k=20&c=mu3OJMEYIaEbx8YxmJytiENaUUWsayb8kJ_nLJKFuZc=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg3{
+  background-image: url("https://dynamics.folio3.com/blog/wp-content/uploads/2022/08/IT-Project-Management_-Steps-Methodologies-Examples-_-Best-IT-Project-Management-Service-consultants.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg2{
+  background-image: url("https://img.freepik.com/free-vector/futuristic-white-technology-background_23-2148390336.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709942400&semt=ais");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
